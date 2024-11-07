@@ -18,7 +18,8 @@
 - Node.js: Any of the following versions
   - Hydrogen LTS (`^18.20.x`)
   - Iron LTS (`^20.10.x`)
-  - Jod LTS (`>=22`)
+  - Jod LTS (`^22.x.x`)
+  - Latest (`>=23.x.x`)
 
 ## Install the dependencies
 

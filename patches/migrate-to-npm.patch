@@ -9,7 +9,7 @@ index 31616e7..bd02645 100644
 -
 -.yarn/** linguist-vendored
 diff --git a/.github/workflows/push.yml b/.github/workflows/push.yml
-index 6a69989..d10fb98 100644
+index 9f8be3a..c90a930 100644
 --- a/.github/workflows/push.yml
 +++ b/.github/workflows/push.yml
 @@ -21,19 +21,19 @@ jobs:
@@ -172,7 +172,7 @@ index 22141ff..9a56279 100644
      "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json": [
        "cspell.config.yml"
 diff --git a/README.md b/README.md
-index caf3c44..d089724 100644
+index 515c882..d9cff8a 100644
 --- a/README.md
 +++ b/README.md
 @@ -1,8 +1,7 @@
@@ -185,7 +185,7 @@ index caf3c44..d089724 100644
  - TypeScript
  - ESLint
  - Prettier
-@@ -24,28 +23,28 @@
+@@ -25,28 +24,28 @@
  
  ```sh
  corepack enable
