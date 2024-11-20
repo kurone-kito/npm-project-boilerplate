@@ -15,10 +15,10 @@
 
 ## System Requirements
 
-- Node.js
-  - Hydrogen LTS (`^18.20.4`)
-  - Iron LTS (`^20.10`)
-  - `>=22`
+- Node.js: Any of the following versions
+  - Hydrogen LTS (`^18.20.x`)
+  - Iron LTS (`^20.10.x`)
+  - Jod LTS (`>=22`)
 
 ## Install the dependencies
 

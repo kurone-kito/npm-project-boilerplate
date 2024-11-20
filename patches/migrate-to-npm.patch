@@ -172,7 +172,7 @@ index 22141ff..9a56279 100644
      "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json": [
        "cspell.config.yml"
 diff --git a/README.md b/README.md
-index 3bd776b..a486a18 100644
+index caf3c44..d089724 100644
 --- a/README.md
 +++ b/README.md
 @@ -1,8 +1,7 @@
